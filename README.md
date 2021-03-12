@@ -1,3 +1,6 @@
+![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 I come alive when I write code.
 
 I have always been a great problem solver, an extrovert, great at socializing. I have always wanted the best for me; this motivates me to work hard to get the best things in life, things that were never handed to me growing up.
