@@ -3,7 +3,7 @@ I'm Gloria Kambua,a Web & Mobile Developer from Kenya who is passionate about te
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
-### Technologies
+### ⚡ Technologies
 Talk to me about
 - Mobile application development using **Java**
 - Web development-**HTML/CSS,Javascript,Java.JQuery**
