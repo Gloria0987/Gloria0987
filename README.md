@@ -4,6 +4,7 @@
 </p>
 <p align="center">
 <a href= "https://twitter.com/GkVickie"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+  <a href= "https://www.linkedin.com/in/kambua-sammy/"><img src="https://www.flaticon.com/free-icon/linkedin_254394"/></a>
 </p>
 
 <p align="center"><samp>
