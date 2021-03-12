@@ -12,4 +12,7 @@ I'm Gloria Kambua,a Web & Mobile Developer from Kenya who is passionate about te
 <p align="center">
 <a href= "https://github.com/Gloria0987"><img src="http://i.imgur.com/0o48UoR.png"/></a>
 <a href= "https://twitter.com/GkVickie"><img src="http://i.imgur.com/tXSoThF.png"/></a>
+ <a href="https://www.linkedin.com/in/kambua-sammy/">
+  <img alt="Shubham's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </p>
