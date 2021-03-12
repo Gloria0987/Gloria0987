@@ -1,5 +1,11 @@
-<h4 align="center"><samp>Hi there 👋🏾</samp></h4>
-I'm Gloria Kambua,a Web & Mobile Developer from Kenya who is passionate about technologies.Beside's programming, I enjoy travellings.
+### Hi there 👋
+I'm Web & Mobile Developer working in Nairobi, Kenya.
+
+### Bio
+
+- 🏢 I'm currently working at **Pesa Print Limited**
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.svg`
+- 🌱 Learning all about **Open Source**
 
 ### Technologies
 - Mobile application development using **Java**
