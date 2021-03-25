@@ -17,10 +17,10 @@ I'm Web & Mobile Developer working in Nairobi, Kenya.
 </p>
 <p align="center">
   
-  <a href="https://twitter.com/GkVickie"><p>Twitter</p>
+  <a href="https://twitter.com/GkVickie">Twitter
   <img  alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-  <a href="https://www.linkedin.com/in/kambua-sammy/"><p>LinkedIn</p>
+  <a href="https://www.linkedin.com/in/kambua-sammy/">LinkedIn
   <img  alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
